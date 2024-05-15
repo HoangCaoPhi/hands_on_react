@@ -17,3 +17,4 @@ make sense: có ý nghĩa
 syntactic [sɪnˈtæk.tɪk] : cú pháp
 imitation [ˌɪm.əˈteɪ.ʃən] giả, bắt trước
 
+prescriptive [prɪˈskrɪp.tɪv]: quy định

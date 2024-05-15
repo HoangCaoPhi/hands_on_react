@@ -26,7 +26,7 @@ export const ProjectList = ({ projects, onSave }: ProjectListProps) => {
                 <div key={project.id} className="cols-sm">
                     {
                         project === projectBeingEdited ?
-                            <ProjectForm onCancel={cancelEditing} onSave={onSave}></ProjectForm> :
+                            <ProjectForm project={project} onCancel={cancelEditing} onSave={onSave}></ProjectForm> :
                             <ProjectCard project={project} onEdit={handleClick}></ProjectCard>
                     }
                 </div>
